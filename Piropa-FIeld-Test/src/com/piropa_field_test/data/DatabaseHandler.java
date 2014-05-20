@@ -11,6 +11,8 @@ public class DatabaseHandler extends SQLiteOpenHelper {
 	
 	private static final String DATA_TABLE = "Piropadb";
 	
+	private static final String BUllshit = "Bullshit";
+	
 	private static final String DATA_RADIO_MAST_ID = "RADIO_MAST_ID";
 	private static final String DATA_ID = "_ID";
 	private static final String DATA_GPS_X ="X-Axis";
